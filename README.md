@@ -96,7 +96,7 @@ To have the project up and running, please follow the [Quick Start Guide](https:
 
 ## Deploy on Railway
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/postiz)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fgitroomhq%2Fpostiz-app&plugins=postgresql%2Credis&envs=NODE_ENV&NODE_ENVDefault=production)
 
 ##
 
